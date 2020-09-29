@@ -7,10 +7,10 @@ This is a template focused on helping people spin up selfhosted services using P
 
 ### Verions
 
-*for the OMV5 version use the [OMV5](https://github.com/Deanosim/selfhosted_templates/tree/OMV5) branch*
-*for the UnRaid version use the [Unraid](https://github.com/Deanosim/selfhosted_templates/tree/unraid) branch*
-*for the Portainer version use the [Portainer-2.0](https://github.com/Deanosim/selfhosted_templates/tree/portainer-2.0) branch*
-*for the Yatch version use the [Yatch](https://github.com/Deanosim/selfhosted_templates/tree/yacht) branch*
+- *for the OMV5 version use the [OMV5](https://github.com/Deanosim/selfhosted_templates/tree/OMV5) branch*
+- *for the UnRaid version use the [Unraid](https://github.com/Deanosim/selfhosted_templates/tree/unraid) branch*
+- *for the Portainer version use the [Portainer-2.0](https://github.com/Deanosim/selfhosted_templates/tree/portainer-2.0) branch*
+- *for the Yatch version use the [Yatch](https://github.com/Deanosim/selfhosted_templates/tree/yacht) branch*
 
 ### Prerequisites
 
