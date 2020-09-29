@@ -1,15 +1,12 @@
-### Notice:
-Currently most of my dev time is being spent on [Yacht](https://github.com/SelfhostedPro/Yacht/tree/vue) if you would like something added please consider making a pull request with your addition and I'll work on getting it added when I'm able to. Information about how to structure a block (for an app) is available [here](https://portainer.readthedocs.io/en/stable/templates.html)
-
-# Portainer Templates for Selfhosted Projects/Homelabs
+# Portainer Templates for Unraid
 
 This is a template focused on helping people spin up selfhosted services using Portainer.
 
-*for the OMV5 version use the OMV5 branch*
+*to see the other versions see [here](https://github.com/Deanosim/selfhosted_templates/tree/master)*
 
 ### Prerequisites
 
-1. A server/NAS with docker installed
+1. Unraid with docker installed
 2. A Portainer setup.
 
 *Want something we don't have? Make an issue and we'll work on adding it*
@@ -18,7 +15,7 @@ This is a template focused on helping people spin up selfhosted services using P
 
 1. Login to your portainer setup go to settings 
 2. Enable Use external templates
-3. Add the url: `https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Template/template.json` then go to app templates and hit refresh at the top.
+3. Add the url: `https://raw.githubusercontent.com/Deanosim/selfhosted_templates/unraid/Template/template.json` then go to app templates and hit refresh at the top.
 
 ### Information
 All templates are already configured to bind mount to various places on your drive. This branch works without the need for OMV. The following folders are all created in /portainer/
@@ -129,8 +126,9 @@ All templates are already configured to bind mount to various places on your dri
 If you wish to contribute make a pull request, create an issue, or email me.
 
 ## Authors
-* **NASHosted** - *Current Work*
-* **SelfhostedPro** - *Current Work*
+* **Deanosim** - *Current Work* - [Deanosim](https://github.com/Deanosim)
+* **NASHosted** - *Current Work* - [NASHosted](https://github.com/NASHosted)
+* **SelfhostedPro** - *Current Work* - [SelfhostedPro](https://github.com/SelfhostedPro)
 * **Jos Visser** - *Initial work* - [Qballjos](https://github.com/Qballjos)
 
 See also the list of [contributors](https://github.com/SelfhostedPro/selfhosted_templates/contributors) who participated in this project.
