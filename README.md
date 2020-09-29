@@ -15,7 +15,8 @@ This is a template focused on helping people spin up selfhosted services using P
 
 1. Login to your portainer setup go to settings 
 2. Enable Use external templates
-3. Add the url: `https://raw.githubusercontent.com/Deanosim/selfhosted_templates/unraid/Template/template.json` then go to app templates and hit refresh at the top.
+3. for normal version that puts everthing under /portainter Add the url: `https://raw.githubusercontent.com/Deanosim/selfhosted_templates/unraid/Template/template.json` then go to app templates and hit refresh at the top.
+4. For the normal unraid version Add the url: `https://raw.githubusercontent.com/Deanosim/selfhosted_templates/unraid/Template/template-mnt-user-version.json` then go to app templates and hit refresh at the top.
 
 ### Information
 All templates are already configured to bind mount to various places on your drive. This branch works without the need for OMV. The following folders are all created in /portainer/
